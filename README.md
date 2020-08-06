@@ -10,3 +10,5 @@ The roaches will spawn at random locations at any given time, even when you have
 
 Author notes:
 - The main takeaway of the project for me is the procedural generation. Most of the core mechanics are pretty much experimental in my part, such as the shooting mechanism and the enemy AI. Nevertheless, I've managed to create this game even though there are a few bugs in it. However, I found some workaround solution to each of them and hopefully they won't explicitly show up in the game anymore.
+
+(PS: You need Love2D installed to run the game)
